@@ -1,6 +1,8 @@
-def asda(a,b):
+def divide(a,b):
+    if b==0:
+        return "Делить на ноль нельзя!!!"
     return a/b
 a=int(input())
 b=int(input())
-print(asda(a,b))
+print(divide(a,b))
 input("Нажмите Enter, чтобы выйти...")
