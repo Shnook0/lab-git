@@ -1,1 +1,1 @@
-Line 1: changed in change-conflict branch
+"Разрешил конфликт!!"
